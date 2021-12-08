@@ -1,0 +1,97 @@
+,GC_content,Scientific.Name,Group,count
+1,high,Achromobacter,Bacteria,1
+2,high,Achromobacter denitrificans,Bacteria,1
+3,high,Achromobacter insolitus,Bacteria,5
+4,high,Achromobacter ruhlandii,Bacteria,1
+5,high,Achromobacter xylosoxidans,Bacteria,9
+6,high,Acidovorax monticola,Bacteria,1
+7,high,Agrobacterium,Bacteria,2
+8,high,Agrobacterium fabrum,Bacteria,7
+9,high,Agrobacterium radiobacter,Bacteria,1
+10,high,Agrobacterium rhizogenes,Bacteria,3
+11,high,Agrobacterium rubi,Bacteria,1
+12,high,Agrobacterium salinitolerans,Bacteria,1
+13,high,Agrobacterium tumefaciens,Bacteria,10
+14,high,Bacillus,Bacteria,1
+15,high,blood disease bacterium,Bacteria,2
+16,high,Bordetella,Bacteria,1
+17,high,Bordetella petrii,Bacteria,1
+18,high,Comamonas,Bacteria,1
+19,high,Cupriavidus necator,Bacteria,1
+20,high,Dyella thiooxydans,Bacteria,1
+21,high,Ensifer,Bacteria,2
+22,high,Ensifer adhaerens,Bacteria,7
+23,high,Ensifer alkalisoli,Bacteria,1
+24,high,Ensifer mexicanus,Bacteria,1
+25,high,Ensifer sojae,Bacteria,1
+26,high,Frankia inefficax,Bacteria,1
+27,high,Frankineae bacterium,Bacteria,1
+28,high,Herbaspirillum rubrisubalbicans,Bacteria,2
+29,high,Herbaspirillum seropedicae,Bacteria,1
+30,high,Jatrophihabitans,Bacteria,1
+31,high,Kerstersia gyiorum,Bacteria,1
+32,high,Kinneretia,Bacteria,2
+33,high,Massilia,Bacteria,2
+34,high,Massilia putida,Bacteria,1
+35,high,Modestobacter marinus,Bacteria,1
+36,high,Mycolicibacterium boenickei,Bacteria,1
+37,high,Neorhizobium,Bacteria,1
+38,high,Noviherbaspirillum,Bacteria,1
+39,high,Phytohabitans suffuscus,Bacteria,1
+40,high,Pseudomonas aeruginosa,Bacteria,62
+41,high,Pseudomonas allokribbensis,Bacteria,1
+42,high,Pseudomonas entomophila,Bacteria,2
+43,high,Pseudomonas fluorescens,Bacteria,1
+44,high,Pseudomonas poae,Bacteria,2
+45,high,Pseudomonas putida,Bacteria,1
+46,high,Pseudomonas qingdaonensis,Bacteria,1
+47,high,Pseudomonas shahriarae,Bacteria,1
+48,high,Pseudomonas sp.,Bacteria,1
+49,high,Pseudomonas tohonis,Bacteria,1
+50,high,Ralstonia solanacearum,Bacteria,13
+51,high,Ralstonia sp.,Bacteria,1
+52,high,Ralstonia syzygii,Bacteria,2
+53,high,Ralstonia syzygii subsp. celebesensis,Bacteria,1
+54,high,Rhizobium,Bacteria,7
+55,high,Rhizobium acidisoli,Bacteria,1
+56,high,Rhizobium bangladeshense,Bacteria,2
+57,high,Rhizobium hidalgonense,Bacteria,1
+58,high,Rhizobium jaguaris,Bacteria,1
+59,high,Rhizobium leguminosarum,Bacteria,2
+60,high,Rhizobium lusitanum,Bacteria,1
+61,high,Rhizobium oryzihabitans,Bacteria,1
+62,high,Rhizobium tropici,Bacteria,1
+63,high,Rhodoferax sediminis,Bacteria,1
+64,high,Shinella,Bacteria,2
+65,high,Shinella zoogloeoides,Bacteria,1
+66,high,Sinorhizobium,Bacteria,2
+67,high,Sinorhizobium americanum,Bacteria,2
+68,high,Sinorhizobium fredii,Bacteria,7
+69,high,Sinorhizobium medicae,Bacteria,1
+70,high,Sinorhizobium meliloti,Bacteria,29
+71,high,Streptomyces,Bacteria,4
+72,high,Streptomyces fulvissimus,Bacteria,3
+73,high,Streptomyces griseus subsp. griseus,Bacteria,1
+74,high,Streptomyces nitrosporeus,Bacteria,1
+75,low,Aquipluma nitroreducens,Bacteria,1
+76,low,Arachis hypogaea,Angiosperm,1
+77,low,Carpinus viminea,Angiosperm,1
+78,low,Ceratodon purpureus,Moss,1
+79,low,Frullania dilatata,Liverwort,1
+80,low,Glycine max,Angiosperm,2
+81,low,Gossypioides kirkii,Angiosperm,4
+82,low,Gossypium arboreum,Angiosperm,1
+83,low,Gossypium hirsutum,Angiosperm,3
+84,low,Gossypium raimondii,Angiosperm,10
+85,low,Gossypium turneri,Angiosperm,9
+86,low,Hibiscus syriacus,Angiosperm,1
+87,low,Lupinus angustifolius,Angiosperm,5
+88,low,Manihot esculenta,Angiosperm,1
+89,low,Marchantia polymorpha subsp. ruderalis,Liverwort,10
+90,low,Nicotiana sylvestris,Angiosperm,1
+91,low,Oryza grandiglumis,Angiosperm,2
+92,low,Physcomitrium patens,Moss,1
+93,low,Selaginella moellendorffii,Lycophyte,1
+94,low,Solanum tuberosum,Angiosperm,3
+95,low,Vigna angularis var. angularis,Angiosperm,2
+96,low,Vitis vinifera,Angiosperm,2

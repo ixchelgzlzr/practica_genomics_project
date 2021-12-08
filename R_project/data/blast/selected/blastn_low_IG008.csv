@@ -1,0 +1,66 @@
+Sample,GC_content,Description,Scientific Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+IG008,low,"Frullania dilatata voucher A. Sousa & J. Bechteler 13 (M) retrotransposon Ty3 gypsy integrase gene, partial cds",Frullania dilatata,106129,99.6,99.6,97%,1.00E-16,74.83,779,MT512479.1
+IG008,low,"Marchantia polymorpha subsp. ruderalis Tak-1 DNA, chromosome: V",Marchantia polymorpha subsp. ruderalis,1480154,93.3,899,98%,6.00E-15,74.47,7543715,AP019874.1
+IG008,low,"Marchantia polymorpha subsp. ruderalis Tak-2 DNA, chromosome: U",Marchantia polymorpha subsp. ruderalis,1480154,90.6,1227,98%,7.00E-14,73.94,4523046,AP024465.1
+IG008,low,"Marchantia polymorpha subsp. ruderalis Tak-1 DNA, chromosome: 3",Marchantia polymorpha subsp. ruderalis,1480154,84.2,213,98%,3.00E-12,72.6,27142341,AP019868.1
+IG008,low,"Marchantia polymorpha subsp. ruderalis Tak-1 DNA, chromosome: 4",Marchantia polymorpha subsp. ruderalis,1480154,77.9,145,96%,4.00E-10,72.3,26988051,AP019869.1
+IG008,low,"Marchantia polymorpha subsp. ruderalis Tak-1 DNA, chromosome: 8",Marchantia polymorpha subsp. ruderalis,1480154,73.4,202,96%,5.00E-09,71.62,21314552,AP019873.1
+IG008,low,"Marchantia polymorpha subsp. ruderalis Tak-1 DNA, chromosome: 5",Marchantia polymorpha subsp. ruderalis,1480154,72.5,72.5,94%,2.00E-08,71.13,26794015,AP019870.1
+IG008,low,"Marchantia polymorpha subsp. ruderalis Tak-1 DNA, chromosome: 2",Marchantia polymorpha subsp. ruderalis,1480154,70.7,247,98%,7.00E-08,71.81,29643427,AP019867.1
+IG008,low,"PREDICTED: Manihot esculenta uncharacterized LOC122722302 (LOC122722302), mRNA",Manihot esculenta,3983,68.9,68.9,33%,2.00E-07,90,1282,XM_043952785.1
+IG008,low,"(106631 bp), complete sequence",Ceratodon purpureus,3225,68,68,90%,2.00E-07,70.8,106631,AC279735.1
+IG008,low,"Glycine max strain Williams 82 clone GM_WBb0032L23, complete sequence",Glycine max,3847,63.5,63.5,78%,1.00E-05,72.27,149341,AC235243.1
+IG008,low,Gossypium turneri isolate D10-2 chromosome D10_12,Gossypium turneri,34284,62.6,166,32%,1.00E-05,87.76,54556719,CP032582.1
+IG008,low,Gossypium turneri isolate D10-2 chromosome D10_11,Gossypium turneri,34284,62.6,62.6,32%,1.00E-05,87.76,67704245,CP032581.1
+IG008,low,Gossypium raimondii isolate D5-4 chromosome D5_12,Gossypium raimondii,29730,62.6,118,32%,1.00E-05,87.76,57421043,CP032564.1
+IG008,low,Gossypium raimondii isolate D5-4 chromosome D5_04,Gossypium raimondii,29730,61.7,113,74%,3.00E-05,75.21,49886343,CP032556.1
+IG008,low,Lupinus angustifolius cultivar Tanjil chromosome LG-19,Lupinus angustifolius,3871,61.7,61.7,40%,3.00E-05,81.97,21811712,CP023131.1
+IG008,low,"Marchantia polymorpha subsp. ruderalis Tak-1 DNA, chromosome: 7",Marchantia polymorpha subsp. ruderalis,1480154,60.8,60.8,98%,3.00E-05,68.92,21963529,AP019872.1
+IG008,low,Lupinus angustifolius cultivar Tanjil chromosome LG-14,Lupinus angustifolius,3871,60.8,117,88%,3.00E-05,69.92,21959816,CP023126.1
+IG008,low,Gossypium arboreum cultivar Shixiya1 chromosome 12,Gossypium arboreum,29729,59.9,59.9,29%,1.00E-04,88.89,94637005,CP053561.1
+IG008,low,Gossypioides kirkii chromosome KI_2_4,Gossypioides kirkii,47615,58.1,58.1,32%,4.00E-04,85.71,41238926,CP032245.1
+IG008,low,"Oryza grandiglumis isolate ICD7 gypsy-like retrotransposon integrase (int) gene, partial cds",Oryza grandiglumis,29690,58.1,58.1,42%,4.00E-04,79.69,305,AF244759.1
+IG008,low,"Oryza grandiglumis isolate ICD6 gypsy-like retrotransposon integrase (int) gene, partial cds",Oryza grandiglumis,29690,58.1,58.1,42%,4.00E-04,79.69,305,AF244758.1
+IG008,low,"Marchantia polymorpha subsp. ruderalis Tak-1 DNA, chromosome: 6",Marchantia polymorpha subsp. ruderalis,1480154,57.2,108,82%,4.00E-04,78.79,23861560,AP019871.1
+IG008,low,"Marchantia polymorpha subsp. ruderalis Tak-1 DNA, chromosome: 1",Marchantia polymorpha subsp. ruderalis,1480154,57.2,161,96%,4.00E-04,70.37,30584173,AP019866.1
+IG008,low,"PREDICTED: Selaginella moellendorffii uncharacterized LOC112342879 (LOC112342879), mRNA",Selaginella moellendorffii,88036,57.2,57.2,37%,4.00E-04,82.14,519,XM_024665453.1
+IG008,low,Gossypium turneri isolate D10-2 chromosome D10_04,Gossypium turneri,34284,56.3,159,31%,0.001,85.42,52521518,CP032574.1
+IG008,low,Gossypium turneri isolate D10-2 chromosome D10_03,Gossypium turneri,34284,56.3,163,98%,0.001,72.88,64909839,CP032573.1
+IG008,low,Gossypium raimondii isolate D5-4 chromosome D5_09,Gossypium raimondii,29730,56.3,111,43%,0.001,85.42,43735892,CP032561.1
+IG008,low,Gossypium turneri isolate D10-2 chromosome D10_02,Gossypium turneri,34284,55.4,158,98%,0.001,68.42,50570303,CP032572.1
+IG008,low,Arachis hypogaea cultivar Shitouqi chromosome A02,Arachis hypogaea,3818,55.4,55.4,84%,0.001,70.54,99791824,CP030984.1
+IG008,low,Gossypium hirsutum cultivar TM1 chromosome A12,Gossypium hirsutum,3635,55.4,107,32%,0.001,86.67,26685906,CP023745.1
+IG008,low,"PREDICTED: Hibiscus syriacus uncharacterized LOC120177079 (LOC120177079), mRNA",Hibiscus syriacus,106335,55.4,55.4,75%,0.001,70.94,684,XM_039183326.1
+IG008,low,Gossypium turneri isolate D10-2 chromosome D10_10,Gossypium turneri,34284,53.6,157,32%,0.005,83.67,63881757,CP032580.1
+IG008,low,Gossypium turneri isolate D10-2 chromosome D10_01,Gossypium turneri,34284,53.6,208,32%,0.005,83.67,60445394,CP032571.1
+IG008,low,Gossypium raimondii isolate D5-4 chromosome D5_11,Gossypium raimondii,29730,53.6,157,32%,0.005,83.67,65701939,CP032563.1
+IG008,low,Gossypium raimondii isolate D5-4 chromosome D5_10,Gossypium raimondii,29730,53.6,208,32%,0.005,83.67,62686509,CP032562.1
+IG008,low,Gossypioides kirkii chromosome KI_13,Gossypioides kirkii,47615,53.6,53.6,32%,0.005,83.67,42971368,CP032255.1
+IG008,low,Gossypioides kirkii chromosome KI_12,Gossypioides kirkii,47615,53.6,105,32%,0.005,83.67,43711324,CP032254.1
+IG008,low,Gossypioides kirkii chromosome KI_08,Gossypioides kirkii,47615,53.6,53.6,32%,0.005,83.67,39602670,CP032250.1
+IG008,low,Gossypium hirsutum cultivar TM1 chromosome D11,Gossypium hirsutum,3635,53.6,53.6,32%,0.005,83.67,47978869,CP023744.1
+IG008,low,Lupinus angustifolius cultivar Tanjil chromosome LG-11,Lupinus angustifolius,3871,53.6,53.6,65%,0.005,71.72,41629797,CP023123.1
+IG008,low,Gossypium raimondii isolate D5-4 chromosome D5_02,Gossypium raimondii,29730,52.7,52.7,31%,0.018,85.42,46322098,CP032554.1
+IG008,low,Lupinus angustifolius cultivar Tanjil chromosome LG-01,Lupinus angustifolius,3871,52.7,105,40%,0.018,78.69,42828440,CP023113.2
+IG008,low,Lupinus angustifolius cultivar Tanjil chromosome LG-03,Lupinus angustifolius,3871,52.7,52.7,40%,0.018,78.69,38743218,CP023115.1
+IG008,low,"Vigna angularis var. angularis DNA, chromosome 7, almost complete sequence, cultivar: Shumari",Vigna angularis var. angularis,157739,52.7,52.7,75%,0.018,71.3,33495452,AP015040.1
+IG008,low,Carpinus viminea chromosome 8,Carpinus viminea,176864,52.7,52.7,27%,0.018,87.8,38314214,CP054674.1
+IG008,low,"Glycine max clone GM_WBa0010E08, complete sequence",Glycine max,3847,52.7,52.7,43%,0.018,77.27,206961,FJ571603.1
+IG008,low,Solanum tuberosum cultivar P8 chromosome 4,Solanum tuberosum,4113,51.8,51.8,28%,0.018,86.05,72175651,CP046685.1
+IG008,low,Solanum tuberosum cultivar MSH/14-112 chromosome 4,Solanum tuberosum,4113,51.8,51.8,28%,0.018,86.05,72170609,CP046699.1
+IG008,low,Gossypium turneri isolate D10-2 chromosome D10_08,Gossypium turneri,34284,51.8,51.8,31%,0.018,83.33,61617684,CP032578.1
+IG008,low,Gossypium turneri isolate D10-2 chromosome D10_07,Gossypium turneri,34284,51.8,51.8,31%,0.018,83.33,53747549,CP032577.1
+IG008,low,Gossypium raimondii isolate D5-4 chromosome D5_07,Gossypium raimondii,29730,51.8,51.8,31%,0.018,83.33,51495894,CP032559.1
+IG008,low,Gossypium raimondii isolate D5-4 chromosome D5_06,Gossypium raimondii,29730,51.8,103,31%,0.018,83.33,60579733,CP032558.1
+IG008,low,Gossypium raimondii isolate D5-4 chromosome D5_03,Gossypium raimondii,29730,51.8,51.8,31%,0.018,83.33,63031283,CP032555.1
+IG008,low,Gossypium raimondii isolate D5-4 chromosome D5_01,Gossypium raimondii,29730,51.8,103,31%,0.018,83.33,56642067,CP032553.1
+IG008,low,Gossypium hirsutum cultivar TM1 chromosome D12,Gossypium hirsutum,3635,51.8,51.8,31%,0.018,83.33,32486404,CP023742.1
+IG008,low,"Vigna angularis var. angularis DNA, chromosome 1, almost complete sequence, cultivar: Shumari",Vigna angularis var. angularis,157739,51.8,51.8,31%,0.018,83.33,67115795,AP015034.1
+IG008,low,"PREDICTED: Nicotiana sylvestris uncharacterized LOC104231610 (LOC104231610), mRNA",Nicotiana sylvestris,4096,51.8,51.8,58%,0.018,72.73,2499,XM_009784626.1
+IG008,low,Solanum tuberosum cultivar Solyntus chromosome 4,Solanum tuberosum,4113,51.8,51.8,28%,0.018,86.05,72008707,CP055237.1
+IG008,low,"Vitis vinifera contig VV78X097830.15, whole genome shotgun sequence",Vitis vinifera,29760,51.8,51.8,28%,0.018,86.05,9417,AM445725.2
+IG008,low,"Vitis vinifera contig VV78X066628.4, whole genome shotgun sequence",Vitis vinifera,29760,51.8,51.8,28%,0.018,86.05,3308,AM455593.1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,"		",,,,,,,,,

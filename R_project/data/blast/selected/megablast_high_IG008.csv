@@ -1,0 +1,105 @@
+Sample,GC_content,Description,Scientific Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+IG008,high,"Achromobacter sp. AONIH1 chromosome, complete genome",Achromobacter,1758194,143,143,80%,5.00E-30,87.7,6648943,CP026124.1
+IG008,high,"Achromobacter xylosoxidans A8, complete genome",Achromobacter xylosoxidans,762376,143,143,98%,5.00E-30,83.89,7013095,CP002287.1
+IG008,high,"Achromobacter insolitus strain LCu2 chromosome, complete genome",Achromobacter insolitus,217204,132,132,98%,1.00E-26,82.55,6428890,CP038034.1
+IG008,high,Achromobacter insolitus strain AB2 genome,Achromobacter insolitus,217204,132,132,98%,1.00E-26,82.55,6438278,CP022199.1
+IG008,high,"Kinneretia sp. DAIF2 chromosome, complete genome",Kinneretia,2714952,132,132,90%,1.00E-26,84.06,6010585,CP049919.1
+IG008,high,"Herbaspirillum seropedicae strain AU14040, complete genome",Herbaspirillum seropedicae,964,130,130,80%,4.00E-26,85.95,5418668,CP013136.1
+IG008,high,"Massilia sp. NP310 chromosome, complete genome",Massilia,2861282,128,128,85%,1.00E-25,84.5,6070534,CP080379.1
+IG008,high,"Achromobacter insolitus strain NCTC13520 genome assembly, chromosome: 1",Achromobacter insolitus,217204,126,126,98%,5.00E-25,81.88,6472476,LR134361.1
+IG008,high,"Achromobacter insolitus strain FDAARGOS_88 chromosome, complete genome",Achromobacter insolitus,217204,126,126,98%,5.00E-25,81.88,6523893,CP026973.1
+IG008,high,"Achromobacter insolitus strain DSM 23807 chromosome, complete genome",Achromobacter insolitus,217204,126,126,98%,5.00E-25,81.88,6492697,CP019325.1
+IG008,high,"Herbaspirillum rubrisubalbicans M1, complete genome",Herbaspirillum rubrisubalbicans,1078773,124,124,78%,2.00E-24,85.59,5611261,CP013737.1
+IG008,high,"Bacillus sp. NP157 chromosome, complete genome",Bacillus,2846778,124,124,84%,2.00E-24,84.25,4875246,CP076546.1
+IG008,high,"Pseudomonas qingdaonensis strain S-1 chromosome, complete genome",Pseudomonas qingdaonensis,2056231,121,121,78%,2.00E-23,85,5938989,CP074676.1
+IG008,high,"Herbaspirillum rubrisubalbicans strain DSM 11543 chromosome, complete genome",Herbaspirillum rubrisubalbicans,80842,119,119,78%,9.00E-23,84.75,5617593,CP024996.1
+IG008,high,"Pseudomonas entomophila strain Small chromosome, complete genome",Pseudomonas entomophila,312306,119,119,92%,9.00E-23,82.01,5960991,CP070982.1
+IG008,high,"Bordetella petrii strain DSM 12804, complete genome",Bordetella petrii,94624,119,119,92%,9.00E-23,82.27,5287950,AM902716.1
+IG008,high,"Pseudomonas entomophila str. L48 chromosome,complete sequence",Pseudomonas entomophila,384676,119,119,92%,9.00E-23,82.01,5888780,CT573326.1
+IG008,high,"Achromobacter xylosoxidans strain GN008 chromosome, complete genome",Achromobacter xylosoxidans,85698,117,117,97%,3.00E-22,80.95,6608203,CP053618.1
+IG008,high,"Achromobacter xylosoxidans isolate R8 genome assembly, chromosome: BN2910",Achromobacter xylosoxidans,85698,117,117,97%,3.00E-22,80.95,6690584,LN890477.1
+IG008,high,"Achromobacter xylosoxidans isolate R4 genome assembly, chromosome: BN2905",Achromobacter xylosoxidans,85698,117,117,97%,3.00E-22,80.95,6626924,LN890476.1
+IG008,high,"Achromobacter xylosoxidans isolate AX_NCIMB_11015_WG genome assembly, chromosome: BN2877",Achromobacter xylosoxidans,85698,117,117,97%,3.00E-22,80.95,6501194,LN890335.1
+IG008,high,"Achromobacter xylosoxidans strain FDAARGOS_150, complete genome",Achromobacter xylosoxidans,85698,117,117,97%,3.00E-22,80.95,6268754,CP014028.2
+IG008,high,Achromobacter ruhlandii strain SCCH3:ACH 33-1365 genome,Achromobacter ruhlandii,72557,117,117,81%,3.00E-22,83.74,6366684,CP017433.1
+IG008,high,"Dyella thiooxydans strain ATSB10, complete genome",Dyella thiooxydans,445710,117,117,85%,3.00E-22,82.95,4227172,CP014841.1
+IG008,high,"Achromobacter denitrificans strain USDA-ARS-USMARC-56712, complete genome",Achromobacter denitrificans,32002,117,117,97%,3.00E-22,80.95,6226215,CP013923.1
+IG008,high,"Achromobacter xylosoxidans strain MN001, complete genome",Achromobacter xylosoxidans,85698,117,117,97%,3.00E-22,80.95,5876049,CP012046.1
+IG008,high,"Achromobacter xylosoxidans strain FDAARGOS_1091 chromosome, complete genome",Achromobacter xylosoxidans,85698,117,117,97%,3.00E-22,80.95,6895608,CP068211.1
+IG008,high,Achromobacter xylosoxidans strain FDAARGOS_984 chromosome,Achromobacter xylosoxidans,85698,117,117,97%,3.00E-22,80.95,6894935,CP066291.1
+IG008,high,"Kerstersia gyiorum strain SWMUKG01 chromosome, complete genome",Kerstersia gyiorum,206506,115,115,96%,1.00E-21,80.82,3945801,CP033936.1
+IG008,high,"Bordetella sp. J329 chromosome, complete genome",Bordetella,1977852,115,115,96%,1.00E-21,80.82,3925525,CP021250.1
+IG008,high,"Pseudomonas fluorescens strain MS82 chromosome, complete genome",Pseudomonas fluorescens,294,115,115,72%,1.00E-21,85.45,6207556,CP028826.1
+IG008,high,"Pseudomonas poae strain BS2776 genome assembly, chromosome: I",Pseudomonas poae,200451,113,113,82%,4.00E-21,83.2,5950238,LT629706.1
+IG008,high,"Pseudomonas poae RE*1-1-14, complete genome",Pseudomonas poae,1282356,113,113,82%,4.00E-21,83.2,5512241,CP004045.1
+IG008,high,"Pseudomonas aeruginosa strain DVT413 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6930600,CP050332.1
+IG008,high,"Pseudomonas sp. FDAARGOS_761 chromosome, complete genome",Pseudomonas sp.,2545800,111,111,61%,1.00E-20,88.17,6384852,CP054572.1
+IG008,high,"Pseudomonas aeruginosa strain PSE6684 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6924367,CP053917.1
+IG008,high,"Pseudomonas tohonis TUM18999 DNA, complete genome",Pseudomonas tohonis,2725477,111,111,65%,1.00E-20,87,6826062,AP023189.1
+IG008,high,"Pseudomonas aeruginosa strain PAC6 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6543892,CP053705.1
+IG008,high,Pseudomonas aeruginosa strain K19PSE24 chromosome,Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6815777,CP053687.1
+IG008,high,"Pseudomonas aeruginosa strain GIMC5021:PA52Ts17, complete sequence",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6850320,CP051770.1
+IG008,high,"Pseudomonas aeruginosa strain GIMC5020:PA52Ts2, complete sequence",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6813604,CP051768.1
+IG008,high,"Pseudomonas aeruginosa strain GIMC5019:PA52Ts1, complete sequence",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6859176,CP051766.1
+IG008,high,"Pseudomonas aeruginosa strain CMC-115 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6375262,CP046602.1
+IG008,high,"Pseudomonas putida strain W5 chromosome, complete genome",Pseudomonas putida,303,111,111,79%,1.00E-20,83.47,6190190,CP026115.2
+IG008,high,"Pseudomonas aeruginosa strain PcyII-40 genome assembly, chromosome: PcyII-40",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6831274,LR739069.1
+IG008,high,"Pseudomonas aeruginosa strain YB01 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6299465,CP028132.1
+IG008,high,"Pseudomonas aeruginosa strain PB367 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6752906,CP025056.3
+IG008,high,"Pseudomonas aeruginosa strain PB350 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6752906,CP025055.2
+IG008,high,"Pseudomonas aeruginosa strain T2436 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6782092,CP039988.1
+IG008,high,"Pseudomonas aeruginosa strain ST773 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6835731,CP041945.1
+IG008,high,Pseudomonas aeruginosa strain GIMC5002:PAT-169 chromosome,Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6449272,CP043549.1
+IG008,high,Pseudomonas aeruginosa strain GIMC5001:PAT-23 chromosome,Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6427888,CP043483.1
+IG008,high,"Pseudomonas aeruginosa strain CCUG 51971 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,7012798,CP043328.1
+IG008,high,"Pseudomonas aeruginosa strain C79 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6756154,CP040684.1
+IG008,high,Pseudomonas aeruginosa strain SCAID WND3-2019 chromosome,Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6382154,CP041785.1
+IG008,high,"Pseudomonas aeruginosa strain 243931 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6514208,CP041772.1
+IG008,high,"Pseudomonas aeruginosa strain 60503 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6809062,CP041774.1
+IG008,high,Pseudomonas aeruginosa UCBPP-PA14 chromosome,Pseudomonas aeruginosa,208963,111,111,61%,1.00E-20,88.17,6536590,CP034244.1
+IG008,high,"Pseudomonas aeruginosa strain BA7823 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6876113,CP032569.2
+IG008,high,"Pseudomonas aeruginosa strain PABL048 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6879622,CP039293.1
+IG008,high,Pseudomonas aeruginosa strain PA-VAP-1 chromosome,Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6382137,CP028332.1
+IG008,high,Pseudomonas aeruginosa strain PA-VAP-3 chromosome,Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6665262,CP028330.1
+IG008,high,"Pseudomonas aeruginosa strain SP2230 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6976603,CP034434.1
+IG008,high,"Pseudomonas aeruginosa strain B14130 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6759594,CP034435.1
+IG008,high,"Pseudomonas aeruginosa strain B17932 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6744658,CP034436.1
+IG008,high,"Pseudomonas aeruginosa strain SP4527 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,7005215,CP034409.1
+IG008,high,"Pseudomonas aeruginosa strain SP4371 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6937609,CP034369.1
+IG008,high,"Pseudomonas aeruginosa strain B41226 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6814295,CP034368.1
+IG008,high,"Pseudomonas aeruginosa strain IMP-13 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,7047704,CP034354.1
+IG008,high,"Pseudomonas aeruginosa isolate paerg005 genome assembly, chromosome: 0",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6931425,LR130534.1
+IG008,high,"Pseudomonas aeruginosa isolate paerg009 genome assembly, chromosome: 0",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6941287,LR130533.1
+IG008,high,"Pseudomonas aeruginosa strain FDAARGOS_571 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6999770,CP033833.1
+IG008,high,"Pseudomonas aeruginosa strain FDAARGOS_501 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6865838,CP033843.1
+IG008,high,"Pseudomonas aeruginosa strain H25883 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6706800,CP033686.1
+IG008,high,"Pseudomonas aeruginosa strain H26023 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6729216,CP033685.1
+IG008,high,"Pseudomonas aeruginosa strain PS1793 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6868713,CP083366.1
+IG008,high,"Pseudomonas aeruginosa strain SCAID PLC1-2021 (16/222) chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,7124329,CP082821.1
+IG008,high,"Pseudomonas aeruginosa strain SCAID TST-2021 (7/157) chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,7173620,CP082823.1
+IG008,high,"Pseudomonas shahriarae strain SWRI52 chromosome, complete genome",Pseudomonas shahriarae,2745512,111,111,79%,1.00E-20,83.33,6054205,CP077085.1
+IG008,high,"Pseudomonas aeruginosa strain TL1285 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6609407,CP053390.1
+IG008,high,"Pseudomonas aeruginosa strain PA790 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6932250,CP075176.1
+IG008,high,"Pseudomonas aeruginosa strain ZBX-P11 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6734601,CP061780.1
+IG008,high,"Pseudomonas aeruginosa strain ZBX-P13 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6878937,CP061778.1
+IG008,high,"Pseudomonas aeruginosa strain 1903031130 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6905506,CP060392.1
+IG008,high,"Pseudomonas aeruginosa strain SE5429 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,7103853,CP054845.1
+IG008,high,"Pseudomonas aeruginosa strain SE5352 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6904218,CP054843.1
+IG008,high,"Pseudomonas aeruginosa strain PA19-3047 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6857397,CP068239.1
+IG008,high,"Pseudomonas aeruginosa strain LYSZa7 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6534364,CP061699.1
+IG008,high,"Pseudomonas aeruginosa strain TJ2014-049 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6660255,CP065867.1
+IG008,high,"Pseudomonas aeruginosa strain SE5331 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,7056430,CP046402.2
+IG008,high,"Pseudomonas aeruginosa strain SE5458 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,7157752,CP046406.2
+IG008,high,"Pseudomonas aeruginosa strain B-I-1 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6935851,CP060242.1
+IG008,high,"Pseudomonas aeruginosa isolate MINF_3A-sc-2280432 genome assembly, chromosome: 1",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6931859,LR898867.1
+IG008,high,"Pseudomonas aeruginosa strain KC-Tt-1 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6229397,CP063047.1
+IG008,high,"Pseudomonas allokribbensis strain IzPS23 chromosome, complete genome",Pseudomonas allokribbensis,2774460,111,111,75%,1.00E-20,84.21,6565027,CP062252.1
+IG008,high,Pseudomonas aeruginosa strain PA179 chromosome,Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6580692,CP058257.1
+IG008,high,"Pseudomonas aeruginosa strain JNQH-PA57 chromosome, complete genome",Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6747067,CP060086.1
+IG008,high,Pseudomonas aeruginosa strain GIMC5034:PA52Ts32 chromosome,Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6823040,CP059063.1
+IG008,high,Pseudomonas aeruginosa strain PABCH46 chromosome,Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,6866206,CP056089.1
+IG008,high,Pseudomonas aeruginosa strain PABCH10 chromosome,Pseudomonas aeruginosa,287,111,111,61%,1.00E-20,88.17,7025666,CP056094.1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,"		",,,,,,,,,

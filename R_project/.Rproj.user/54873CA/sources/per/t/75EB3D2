@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638861595920.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3911184",
+    "id" : "75EB3D2",
+    "lastKnownWriteTime" : 1638935778,
+    "last_content_update" : 1638935778462,
+    "path" : "~/Documents_local/practical_genomics_project/project/summarising big groups.R",
+    "project_path" : "summarising big groups.R",
+    "properties" : {
+        "cursorPosition" : "32,0",
+        "scrollLine" : "20",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

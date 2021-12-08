@@ -1,0 +1,27 @@
+Description,Scientific Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Acidovorax monticola strain KACC 19171 chromosome, complete genome",Acidovorax monticola,1926868,94.2,94.2,87%,6e-15,75.56,4679990,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP060790.1?report=genbank&log$=nucltop&blast_rank=1&RID=UUT1BJ82013"",""CP060790.1"")"
+"Comamonas sp. CJ34 chromosome, complete genome",Comamonas sp. CJ34,2796366,91.5,91.5,88%,2e-14,75.54,4856737,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP066783.1?report=genbank&log$=nucltop&blast_rank=2&RID=UUT1BJ82013"",""CP066783.1"")"
+"Noviherbaspirillum sp. UKPF54 chromosome, complete genome",Noviherbaspirillum sp. UKPF54,2601898,79.7,79.7,48%,1e-10,84.00,4718988,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP040128.1?report=genbank&log$=nucltop&blast_rank=3&RID=UUT1BJ82013"",""CP040128.1"")"
+"Cupriavidus necator strain NH9 chromosome 1, complete sequence",Cupriavidus necator,106590,74.3,74.3,78%,5e-09,75.21,4347557,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP017757.2?report=genbank&log$=nucltop&blast_rank=4&RID=UUT1BJ82013"",""CP017757.2"")"
+"Ralstonia solanacearum strain SL2064 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1884392,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022799.1?report=genbank&log$=nucltop&blast_rank=5&RID=UUT1BJ82013"",""CP022799.1"")"
+"Ralstonia solanacearum strain SL2312 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1988567,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022797.1?report=genbank&log$=nucltop&blast_rank=6&RID=UUT1BJ82013"",""CP022797.1"")"
+"Ralstonia solanacearum strain SL3022 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,2034982,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP023017.1?report=genbank&log$=nucltop&blast_rank=7&RID=UUT1BJ82013"",""CP023017.1"")"
+"Ralstonia solanacearum strain SL3175 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1986284,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022789.1?report=genbank&log$=nucltop&blast_rank=8&RID=UUT1BJ82013"",""CP022789.1"")"
+"Ralstonia solanacearum strain T11 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1883805,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022777.1?report=genbank&log$=nucltop&blast_rank=9&RID=UUT1BJ82013"",""CP022777.1"")"
+"Ralstonia solanacearum strain T12 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1988373,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022775.1?report=genbank&log$=nucltop&blast_rank=10&RID=UUT1BJ82013"",""CP022775.1"")"
+"Ralstonia solanacearum strain T51 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1883756,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022771.1?report=genbank&log$=nucltop&blast_rank=11&RID=UUT1BJ82013"",""CP022771.1"")"
+"Ralstonia solanacearum strain T82 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1988569,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022764.1?report=genbank&log$=nucltop&blast_rank=12&RID=UUT1BJ82013"",""CP022764.1"")"
+"Ralstonia solanacearum strain T95 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1884412,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022762.1?report=genbank&log$=nucltop&blast_rank=13&RID=UUT1BJ82013"",""CP022762.1"")"
+"Ralstonia solanacearum strain T98 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1986282,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022760.1?report=genbank&log$=nucltop&blast_rank=14&RID=UUT1BJ82013"",""CP022760.1"")"
+"Ralstonia solanacearum strain T101 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1988531,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP022758.1?report=genbank&log$=nucltop&blast_rank=15&RID=UUT1BJ82013"",""CP022758.1"")"
+"Ralstonia solanacearum strain KACC 10722 plasmid, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4e-04,86.96,1883432,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP014703.1?report=genbank&log$=nucltop&blast_rank=16&RID=UUT1BJ82013"",""CP014703.1"")"
+Ralstonia sp. isolate bin465 chromosome,Ralstonia sp.,54061,57.2,57.2,30%,4e-04,86.96,4795847,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP070721.1?report=genbank&log$=nucltop&blast_rank=17&RID=UUT1BJ82013"",""CP070721.1"")"
+"Ralstonia syzygii subsp. celebesensis strain UGMSS_Db01 chromosome, complete genome",Ralstonia syzygii subsp. celebesensis,1310168,57.2,57.2,30%,4e-04,86.96,3570277,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP068285.1?report=genbank&log$=nucltop&blast_rank=18&RID=UUT1BJ82013"",""CP068285.1"")"
+"Ralstonia syzygii R24, genomic contig 00001-1629",Ralstonia syzygii R24,907261,57.2,57.2,30%,4e-04,86.96,916373,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/FR854090.1?report=genbank&log$=nucltop&blast_rank=19&RID=UUT1BJ82013"",""FR854090.1"")"
+"Ralstonia solanacearum PSI07 megaplasmid mpPSI07, complete sequence",Ralstonia solanacearum PSI07,859657,57.2,57.2,30%,4e-04,86.96,2085000,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/FP885891.2?report=genbank&log$=nucltop&blast_rank=20&RID=UUT1BJ82013"",""FP885891.2"")"
+
+
+
+		
+
+

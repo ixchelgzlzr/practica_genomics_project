@@ -1,0 +1,20 @@
+Sample,GC_content,Description,Scientific Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+IG007,high,"Jatrophihabitans sp. GAS493 genome assembly, chromosome: I",Jatrophihabitans,1907575,68.9,68.9,35%,2.00E-07,87.5,4880021,LT907982.1
+IG007,high,"Frankia inefficax strain EuI1c, complete genome",Frankia inefficax,298654,67.1,67.1,64%,8.00E-07,75.25,8815781,CP002299.1
+IG007,high,"Phytohabitans suffuscus NBRC 105367 DNA, complete genome",Phytohabitans suffuscus,624315,53.6,53.6,29%,0.005,86.36,10148719,AP022871.1
+IG007,high,"Mycolicibacterium boenickei JCM 15653 DNA, complete genome",Mycolicibacterium boenickei,146017,53.6,53.6,19%,0.005,100,6563937,AP022579.1
+IG007,high,"Streptomyces fulvissimus strain NA06532 chromosome, complete genome",Streptomyces fulvissimus,68202,52.7,52.7,20%,0.018,96.77,7790974,CP054926.1
+IG007,high,"Streptomyces griseus subsp. griseus strain ATCC 13273 chromosome, complete genome",Streptomyces griseus subsp. griseus,67263,52.7,52.7,20%,0.018,96.77,7238194,CP032543.1
+IG007,high,"Frankineae bacterium MT45 genome assembly, chromosome: I",Frankineae bacterium,1882833,52.7,52.7,49%,0.018,76.92,4228702,LT629697.1
+IG007,high,"Streptomyces sp. WA6-1-16 chromosome, complete genome",Streptomyces,2879427,52.7,52.7,20%,0.018,96.77,8214879,CP084357.1
+IG007,high,"Streptomyces fulvissimus DSM 40593 chromosome, complete genome",Streptomyces fulvissimus,1303692,52.7,52.7,20%,0.018,96.77,7905758,CP005080.1
+IG007,high,"Streptomyces sp. CA-256286 chromosome, complete genome",Streptomyces,2801033,52.7,52.7,20%,0.018,96.77,7726360,CP071044.1
+IG007,high,Streptomyces fulvissimus strain DF chromosome,Streptomyces fulvissimus,68202,52.7,52.7,20%,0.018,96.77,7800405,CP068598.1
+IG007,high,"Streptomyces sp. KY75 isolate Streptomyces sp. KY75 genome genome assembly, chromosome: KY75",Streptomyces,2772433,52.7,52.7,20%,0.018,96.77,7837660,LR881953.1
+IG007,high,"Streptomyces sp. KY70 isolate Streptomyces sp. KY70 genome genome assembly, chromosome: KY70",Streptomyces,2772432,52.7,52.7,20%,0.018,96.77,7838151,LR881952.1
+IG007,high,"Streptomyces nitrosporeus strain ATCC 12769 chromosome, complete genome",Streptomyces nitrosporeus,28894,51.8,51.8,31%,0.018,83.33,7581562,CP023702.1
+IG007,high,"Modestobacter marinus str. BC501 chromosome, complete genome",Modestobacter marinus,477641,51.8,51.8,54%,0.018,73.49,5575517,FO203431.1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,"		",,,,,,,,,

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638924027902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1352416868",
+    "id" : "D055580D",
+    "lastKnownWriteTime" : 1638935778,
+    "last_content_update" : 1638935778387,
+    "path" : "~/Documents_local/practical_genomics_project/project/GC_cont_function.R",
+    "project_path" : "GC_cont_function.R",
+    "properties" : {
+        "cursorPosition" : "33,1",
+        "scrollLine" : "13",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

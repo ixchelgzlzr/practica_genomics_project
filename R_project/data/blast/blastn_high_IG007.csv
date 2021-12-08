@@ -1,0 +1,22 @@
+Description,Scientific Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Jatrophihabitans sp. GAS493 genome assembly, chromosome: I",Jatrophihabitans sp. GAS493,1907575,68.9,68.9,35%,2e-07,87.50,4880021,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/LT907982.1?report=genbank&log$=nucltop&blast_rank=1&RID=UUU1MJNY013"",""LT907982.1"")"
+"Frankia inefficax strain EuI1c, complete genome",Frankia inefficax,298654,67.1,67.1,64%,8e-07,75.25,8815781,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP002299.1?report=genbank&log$=nucltop&blast_rank=2&RID=UUU1MJNY013"",""CP002299.1"")"
+"Phytohabitans suffuscus NBRC 105367 DNA, complete genome",Phytohabitans suffuscus,624315,53.6,53.6,29%,0.005,86.36,10148719,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/AP022871.1?report=genbank&log$=nucltop&blast_rank=3&RID=UUU1MJNY013"",""AP022871.1"")"
+"Mycolicibacterium boenickei JCM 15653 DNA, complete genome",Mycolicibacterium boenickei,146017,53.6,53.6,19%,0.005,100.00,6563937,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/AP022579.1?report=genbank&log$=nucltop&blast_rank=4&RID=UUU1MJNY013"",""AP022579.1"")"
+"Streptomyces fulvissimus strain NA06532 chromosome, complete genome",Streptomyces fulvissimus,68202,52.7,52.7,20%,0.018,96.77,7790974,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP054926.1?report=genbank&log$=nucltop&blast_rank=5&RID=UUU1MJNY013"",""CP054926.1"")"
+"Streptomyces griseus subsp. griseus strain ATCC 13273 chromosome, complete genome",Streptomyces griseus subsp. griseus,67263,52.7,52.7,20%,0.018,96.77,7238194,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP032543.1?report=genbank&log$=nucltop&blast_rank=6&RID=UUU1MJNY013"",""CP032543.1"")"
+"Frankineae bacterium MT45 genome assembly, chromosome: I",Frankineae bacterium MT45,1882833,52.7,52.7,49%,0.018,76.92,4228702,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/LT629697.1?report=genbank&log$=nucltop&blast_rank=7&RID=UUU1MJNY013"",""LT629697.1"")"
+"Streptomyces sp. WA6-1-16 chromosome, complete genome",Streptomyces sp. WA6-1-16,2879427,52.7,52.7,20%,0.018,96.77,8214879,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP084357.1?report=genbank&log$=nucltop&blast_rank=8&RID=UUU1MJNY013"",""CP084357.1"")"
+"Streptomyces fulvissimus DSM 40593 chromosome, complete genome",Streptomyces fulvissimus DSM 40593,1303692,52.7,52.7,20%,0.018,96.77,7905758,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP005080.1?report=genbank&log$=nucltop&blast_rank=9&RID=UUU1MJNY013"",""CP005080.1"")"
+"Streptomyces sp. CA-256286 chromosome, complete genome",Streptomyces sp. CA-256286,2801033,52.7,52.7,20%,0.018,96.77,7726360,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP071044.1?report=genbank&log$=nucltop&blast_rank=10&RID=UUU1MJNY013"",""CP071044.1"")"
+Streptomyces fulvissimus strain DF chromosome,Streptomyces fulvissimus,68202,52.7,52.7,20%,0.018,96.77,7800405,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP068598.1?report=genbank&log$=nucltop&blast_rank=11&RID=UUU1MJNY013"",""CP068598.1"")"
+"Streptomyces sp. KY75 isolate Streptomyces sp. KY75 genome genome assembly, chromosome: KY75",Streptomyces sp. KY75,2772433,52.7,52.7,20%,0.018,96.77,7837660,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/LR881953.1?report=genbank&log$=nucltop&blast_rank=12&RID=UUU1MJNY013"",""LR881953.1"")"
+"Streptomyces sp. KY70 isolate Streptomyces sp. KY70 genome genome assembly, chromosome: KY70",Streptomyces sp. KY70,2772432,52.7,52.7,20%,0.018,96.77,7838151,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/LR881952.1?report=genbank&log$=nucltop&blast_rank=13&RID=UUU1MJNY013"",""LR881952.1"")"
+"Streptomyces nitrosporeus strain ATCC 12769 chromosome, complete genome",Streptomyces nitrosporeus,28894,51.8,51.8,31%,0.018,83.33,7581562,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/CP023702.1?report=genbank&log$=nucltop&blast_rank=14&RID=UUU1MJNY013"",""CP023702.1"")"
+"Modestobacter marinus str. BC501 chromosome, complete genome",Modestobacter marinus,477641,51.8,51.8,54%,0.018,73.49,5575517,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/nucleotide/FO203431.1?report=genbank&log$=nucltop&blast_rank=15&RID=UUU1MJNY013"",""FO203431.1"")"
+
+
+
+		
+
+

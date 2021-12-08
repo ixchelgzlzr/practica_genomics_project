@@ -1,0 +1,31 @@
+Sample,GC_content,Description,Scientific Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+IG006,high,"Acidovorax monticola strain KACC 19171 chromosome, complete genome",Acidovorax monticola,1926868,94.2,94.2,87%,6.00E-15,75.56,4679990,CP060790.1
+IG006,high,"Comamonas sp. CJ34 chromosome, complete genome",Comamonas,2796366,91.5,91.5,88%,2.00E-14,74.82,4856737,CP066783.1
+IG006,high,"Noviherbaspirillum sp. UKPF54 chromosome, complete genome",Noviherbaspirillum,2601898,79.7,79.7,48%,1.00E-10,84,4718988,CP040128.1
+IG006,high,"Cupriavidus necator strain NH9 chromosome 1, complete sequence",Cupriavidus necator,106590,74.3,74.3,78%,5.00E-09,75.21,4347557,CP017757.2
+IG006,high,"Massilia putida strain 6NM-7 chromosome, complete genome",Massilia putida,1141883,71.6,71.6,44%,2.00E-08,85.29,6987670,CP019038.1
+IG006,high,"Rhodoferax sediminis strain CHu59-6-5 chromosome, complete genome",Rhodoferax sediminis,2509614,69.8,69.8,88%,7.00E-08,71.43,4387497,CP035503.1
+IG006,high,"Ralstonia solanacearum strain SL2064 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1884392,CP022799.1
+IG006,high,"Ralstonia solanacearum strain SL2312 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1988567,CP022797.1
+IG006,high,"Ralstonia solanacearum strain SL3022 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,2034982,CP023017.1
+IG006,high,"Ralstonia solanacearum strain SL3175 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1986284,CP022789.1
+IG006,high,"Ralstonia solanacearum strain T11 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1883805,CP022777.1
+IG006,high,"Ralstonia solanacearum strain T12 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1988373,CP022775.1
+IG006,high,"Ralstonia solanacearum strain T51 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1883756,CP022771.1
+IG006,high,"Ralstonia solanacearum strain T82 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1988569,CP022764.1
+IG006,high,"Ralstonia solanacearum strain T95 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1884412,CP022762.1
+IG006,high,"Ralstonia solanacearum strain T98 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1986282,CP022760.1
+IG006,high,"Ralstonia solanacearum strain T101 plasmid unnamed, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1988531,CP022758.1
+IG006,high,Blood disease bacterium A2-HR MARDI chromosome,blood disease bacterium,1944648,57.2,57.2,30%,4.00E-04,86.96,3603719,CP019911.1
+IG006,high,"Ralstonia solanacearum strain KACC 10722 plasmid, complete sequence",Ralstonia solanacearum,305,57.2,57.2,30%,4.00E-04,86.96,1883432,CP014703.1
+IG006,high,Ralstonia sp. isolate bin465 chromosome,Ralstonia sp.,54061,57.2,57.2,30%,4.00E-04,86.96,4795847,CP070721.1
+IG006,high,"Ralstonia syzygii strain LLRS-1 plasmid pLLRS-1, complete sequence",Ralstonia syzygii,28097,57.2,57.2,30%,4.00E-04,86.96,2046405,CP046730.1
+IG006,high,"Ralstonia syzygii subsp. celebesensis strain UGMSS_Db01 chromosome, complete genome",Ralstonia syzygii subsp. celebesensis,1310168,57.2,57.2,30%,4.00E-04,86.96,3570277,CP068285.1
+IG006,high,"Ralstonia syzygii R24, genomic contig 00001-1629",Ralstonia syzygii,907261,57.2,57.2,30%,4.00E-04,86.96,916373,FR854090.1
+IG006,high,"blood disease bacterium R229, genomic contig 00011-1626",blood disease bacterium,741978,57.2,57.2,30%,4.00E-04,86.96,383333,FR854067.1
+IG006,high,"Ralstonia solanacearum PSI07 megaplasmid mpPSI07, complete sequence",Ralstonia solanacearum,859657,57.2,57.2,30%,4.00E-04,86.96,2085000,FP885891.2
+IG006,high,"Massilia sp. YMA4 chromosome, complete genome",Massilia,1593482,51.8,51.8,41%,0.018,78.12,6328781,CP030092.1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,"		",,,,,,,,,

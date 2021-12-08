@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638685661991.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2513603464",
+    "id" : "B4665576",
+    "lastKnownWriteTime" : 1638750297,
+    "last_content_update" : 1638750297423,
+    "path" : "~/Documents_local/practical_genomics_project/project/separating_sequences.R",
+    "project_path" : "separating_sequences.R",
+    "properties" : {
+        "cursorPosition" : "93,0",
+        "scrollLine" : "80",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

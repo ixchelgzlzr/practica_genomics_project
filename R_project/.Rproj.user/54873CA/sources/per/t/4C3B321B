@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638838930622.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3309020655",
+    "id" : "4C3B321B",
+    "lastKnownWriteTime" : 1638921024,
+    "last_content_update" : 1638921024818,
+    "path" : "~/Documents_local/practical_genomics_project/project/working_with_matches.R",
+    "project_path" : "working_with_matches.R",
+    "properties" : {
+        "cursorPosition" : "86,0",
+        "scrollLine" : "69",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,105 @@
+Sample,GC_content,Description,Scientific Name,Taxid,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+IG005,high,"Ensifer adhaerens strain Corn53 chromosome, complete genome",Ensifer adhaerens,106592,146,146,91%,1.00E-30,83.33,4049947,CP030262.1
+IG005,high,"Ensifer adhaerens strain Casida A, complete sequence",Ensifer adhaerens,106592,146,146,91%,1.00E-30,83.33,4071185,CP015880.1
+IG005,high,"Ensifer sp. T173 chromosome, complete genome",Ensifer,555315,146,146,91%,1.00E-30,83.33,4051102,CP083370.1
+IG005,high,Ensifer adhaerens OV14 chromosome 1 sequence,Ensifer adhaerens,1416753,146,146,91%,1.00E-30,83.33,3956045,CP007236.1
+IG005,high,"Ensifer adhaerens strain E-60 chromosome, complete genome",Ensifer adhaerens,106592,141,141,91%,1.00E-29,82.61,4107670,CP084486.1
+IG005,high,Sinorhizobium meliloti WSM1022 chromosome,Sinorhizobium meliloti,1041157,133,133,90%,7.00E-27,81.62,3703795,CP054390.1
+IG005,high,"Sinorhizobium meliloti strain AK21 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3785735,CP026525.1
+IG005,high,"Sinorhizobium meliloti strain B399 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3781386,CP019488.1
+IG005,high,"Sinorhizobium meliloti strain B401 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3459457,CP019485.1
+IG005,high,"Sinorhizobium meliloti strain CCMM B554 (FSM-MA), complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3641423,CP019584.1
+IG005,high,"Sinorhizobium meliloti strain HM006 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3664783,CP021829.1
+IG005,high,"Sinorhizobium meliloti strain KH35c chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3668245,CP021825.1
+IG005,high,"Sinorhizobium meliloti strain KH46 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3699865,CP021822.1
+IG005,high,"Sinorhizobium meliloti strain M162 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3817269,CP021818.1
+IG005,high,"Sinorhizobium meliloti strain M270 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3504252,CP021812.1
+IG005,high,"Sinorhizobium meliloti strain Rm41 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3678504,CP021808.1
+IG005,high,"Sinorhizobium meliloti strain T073 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3814348,CP021804.1
+IG005,high,"Sinorhizobium meliloti strain USDA1021 plasmid psymB, complete sequence",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,2011522,CP021802.1
+IG005,high,"Sinorhizobium meliloti RU11/001 chromosome, complete genome",Sinorhizobium meliloti,1401243,133,133,90%,7.00E-27,81.62,3938685,CP021219.1
+IG005,high,"Sinorhizobium meliloti strain USDA1106 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3671869,CP021797.1
+IG005,high,"Sinorhizobium meliloti strain USDA1157 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3791696,CP021793.1
+IG005,high,"Sinorhizobium meliloti GR4, complete genome",Sinorhizobium meliloti,1235461,133,133,90%,7.00E-27,81.62,3620713,CP003933.2
+IG005,high,"Sinorhizobium meliloti strain RMO17, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3649532,CP009144.1
+IG005,high,"Sinorhizobium meliloti strain L6-AK89 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3580141,CP085525.1
+IG005,high,"Sinorhizobium meliloti 2011, complete genome",Sinorhizobium meliloti,1286640,133,133,90%,7.00E-27,81.62,3657276,CP004140.1
+IG005,high,Sinorhizobium meliloti Rm41 complete genome,Sinorhizobium meliloti,1230587,133,133,90%,7.00E-27,81.62,3679105,HE995405.1
+IG005,high,"Sinorhizobium meliloti strain AK76 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3580177,CP066359.1
+IG005,high,"Sinorhizobium meliloti strain S35m chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3610844,CP065020.1
+IG005,high,"Sinorhizobium meliloti strain RCAM1115 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,4003712,CP050558.1
+IG005,high,"Sinorhizobium meliloti strain RCAM1750 chromosome, complete genome",Sinorhizobium meliloti,382,133,133,90%,7.00E-27,81.62,3602000,CP050511.1
+IG005,high,"Sinorhizobium meliloti SM11, complete genome",Sinorhizobium meliloti,707241,133,133,90%,7.00E-27,81.62,3908022,CP001830.1
+IG005,high,"Sinorhizobium meliloti AK83 chromosome 1, complete sequence",Sinorhizobium meliloti,693982,133,133,90%,7.00E-27,81.62,3820344,CP002781.1
+IG005,high,"Sinorhizobium meliloti BL225C, complete genome",Sinorhizobium meliloti,698936,133,133,90%,7.00E-27,81.62,3671982,CP002740.1
+IG005,high,Sinorhizobium meliloti 1021 complete chromosome,Sinorhizobium meliloti,266834,133,133,90%,7.00E-27,81.62,3654135,AL591688.1
+IG005,high,"Ensifer mexicanus strain ITTG R7 chromosome, complete genome",Ensifer mexicanus,375549,132,132,91%,7.00E-27,81.16,4316340,CP041238.1
+IG005,high,"Ensifer sojae CCBAU 05684 chromosome, complete genome",Ensifer sojae,716928,128,128,91%,3.00E-25,80.43,3672259,CP023067.1
+IG005,high,"Ensifer sp. PDNC004 chromosome, complete genome",Ensifer,2811423,128,128,91%,3.00E-25,80.43,4152503,CP070353.1
+IG005,high,"Ensifer alkalisoli strain YIC4027 chromosome 1, complete sequence",Ensifer alkalisoli,1752398,120,120,90%,4.00E-23,79.41,3690234,CP034909.1
+IG005,high,"Sinorhizobium fredii CCBAU 25509 chromosome, complete genome",Sinorhizobium fredii,1128330,115,115,90%,2.00E-21,78.68,4198614,CP029451.1
+IG005,high,"Sinorhizobium fredii CCBAU 45436 chromosome, complete genome",Sinorhizobium fredii,1128331,115,115,90%,2.00E-21,78.68,4162966,CP029231.1
+IG005,high,"Sinorhizobium fredii HH103 main chromosome, complete sequence",Sinorhizobium fredii,1117943,115,115,90%,2.00E-21,78.68,4305723,HE616890.1
+IG005,high,"Sinorhizobium fredii strain NXT3 chromosome, complete genome",Sinorhizobium fredii,380,114,114,91%,2.00E-21,78.26,3967005,CP024307.1
+IG005,high,"Sinorhizobium sp. CCBAU 05631 chromosome, complete genome",Sinorhizobium,794846,114,114,91%,2.00E-21,78.26,4018433,CP023063.1
+IG005,high,"Shinella sp. HZN7, complete genome",Shinella,879274,112,112,88%,2.00E-20,78.36,4678597,CP015736.1
+IG005,high,"Sinorhizobium medicae WSM419, complete genome",Sinorhizobium medicae,366394,111,111,90%,2.00E-20,77.94,3781904,CP000738.1
+IG005,high,"Sinorhizobium fredii CCBAU 83666 chromosome, complete genome",Sinorhizobium fredii,1128334,106,106,90%,9.00E-19,77.21,3986633,CP023070.1
+IG005,high,"Sinorhizobium americanum strain CFNEI 73, complete genome",Sinorhizobium americanum,194963,105,105,91%,9.00E-19,76.81,3764724,CP013107.1
+IG005,high,"Sinorhizobium americanum CCGM7, complete genome",Sinorhizobium americanum,1408224,105,105,91%,9.00E-19,76.81,3650564,CP013051.1
+IG005,high,"Sinorhizobium fredii USDA 257, complete genome",Sinorhizobium fredii,1185652,105,105,91%,9.00E-19,76.81,6476459,CP003563.1
+IG005,high,"Rhizobium leguminosarum bv. trifolii CB782, complete genome",Rhizobium leguminosarum,1033991,104,104,90%,3.00E-18,76.64,4378440,CP007067.1
+IG005,high,"Agrobacterium rhizogenes strain A4 chromosome 1, complete sequence",Agrobacterium rhizogenes,359,104,104,90%,3.00E-18,76.64,4013078,CP073110.1
+IG005,high,"Agrobacterium rhizogenes strain CA75/95 chromosome 1, complete sequence",Agrobacterium rhizogenes,359,104,104,90%,3.00E-18,76.64,4026039,CP049213.1
+IG005,high,"Agrobacterium rhizogenes strain LBA9402 chromosome 1, complete sequence",Agrobacterium rhizogenes,359,104,104,90%,3.00E-18,76.64,3958212,CP044122.1
+IG005,high,"Agrobacterium radiobacter K84 chromosome 1, complete sequence",Agrobacterium radiobacter,311403,104,104,90%,3.00E-18,76.64,4005130,CP000628.1
+IG005,high,"Agrobacterium tumefaciens strain CFBP6625 chromosome circular, complete sequence",Agrobacterium tumefaciens,358,103,103,88%,1.00E-17,76.87,3053995,CP039910.1
+IG005,high,"Agrobacterium tumefaciens strain 12D1 chromosome circular, complete sequence",Agrobacterium tumefaciens,358,103,103,88%,1.00E-17,76.87,3027766,CP033031.1
+IG005,high,"Agrobacterium tumefaciens strain 1D1460 chromosome circular, complete sequence",Agrobacterium tumefaciens,358,103,103,88%,1.00E-17,76.87,2867449,CP032926.1
+IG005,high,Agrobacterium tumefaciens strain 183 chromosome 1,Agrobacterium tumefaciens,358,103,103,88%,1.00E-17,76.87,2828967,CP029044.1
+IG005,high,"Agrobacterium tumefaciens strain 1D1104 chromosome 1, complete sequence",Agrobacterium tumefaciens,358,103,103,88%,1.00E-17,76.87,2774783,CP081205.1
+IG005,high,"Agrobacterium tumefaciens strain EML4 chromosome circular, complete sequence",Agrobacterium tumefaciens,358,103,103,88%,1.00E-17,76.87,2861634,CP058525.1
+IG005,high,"Agrobacterium tumefaciens strain 186 chromosome Circular, complete sequence",Agrobacterium tumefaciens,358,102,102,86%,1.00E-17,77.1,2943916,CP042274.1
+IG005,high,"Agrobacterium tumefaciens strain BIM B-1315G chromosome circular, complete sequence",Agrobacterium tumefaciens,358,102,102,86%,1.00E-17,77.1,2922353,CP061003.1
+IG005,high,"Kinneretia sp. XES5 chromosome, complete genome",Kinneretia,2877940,101,101,88%,4.00E-17,77.21,4026671,CP084752.1
+IG005,high,"Ensifer adhaerens strain W2-B9 chromosome 1, complete sequence",Ensifer adhaerens,106592,101,101,91%,4.00E-17,76.09,4191017,CP083349.1
+IG005,high,"Ensifer adhaerens strain W2-B chromosome 1, complete sequence",Ensifer adhaerens,106592,101,101,91%,4.00E-17,76.09,4190960,CP083346.1
+IG005,high,"Ensifer adhaerens strain W2-A chromosome 1, complete sequence",Ensifer adhaerens,106592,101,101,91%,4.00E-17,76.09,4191027,CP083343.1
+IG005,high,"Sinorhizobium fredii NGR234, complete genome",Sinorhizobium fredii,394,101,101,91%,4.00E-17,76.09,3925702,CP001389.1
+IG005,high,"Rhizobium oryzihabitans strain M15 chromosome M15-11, complete sequence",Rhizobium oryzihabitans,2267833,94.2,94.2,88%,6.00E-15,75.37,3195345,CP048632.1
+IG005,high,"Agrobacterium sp. T29 chromosome circular, complete sequence",Agrobacterium,2580515,94.2,94.2,88%,6.00E-15,75.37,3009322,CP040640.1
+IG005,high,"Agrobacterium tumefaciens strain CFBP6626 chromosome circular, complete sequence",Agrobacterium tumefaciens,358,94.2,94.2,88%,6.00E-15,75.37,2911401,CP039916.1
+IG005,high,"Sinorhizobium sp. BG8 chromosome, complete genome",Sinorhizobium,2613773,94.2,94.2,88%,6.00E-15,75.37,4528967,CP044011.1
+IG005,high,"Shinella sp. PSBB067 plasmid unnamed1, complete sequence",Shinella,2715959,94.2,94.2,90%,6.00E-15,76.09,4605385,CP069303.1
+IG005,high,"Rhizobium jaguaris strain CCGE525 chromosome, complete genome",Rhizobium jaguaris,1312183,92.4,92.4,91%,2.00E-14,74.64,4575315,CP032694.1
+IG005,high,"Neorhizobium sp. NCHU2750 chromosome, complete genome",Neorhizobium,1825976,90.6,90.6,84%,7.00E-14,76.92,4319396,CP030827.1
+IG005,high,"Rhizobium tropici CIAT 899, complete genome",Rhizobium tropici,698761,90.6,90.6,94%,7.00E-14,75.52,3837060,CP004015.1
+IG005,high,"Rhizobium leguminosarum bv. trifolii WSM2304 chromosome, complete genome",Rhizobium leguminosarum,395492,90.6,90.6,90%,7.00E-14,74.45,4537948,CP001191.1
+IG005,high,"Rhizobium sp. X9 chromosome 1, complete sequence",Rhizobium,2815360,89.7,89.7,88%,7.00E-14,74.63,3145177,CP071311.1
+IG005,high,"Agrobacterium rubi strain W2/73 chromosome 1, complete sequence",Agrobacterium rubi,28099,89.7,89.7,88%,7.00E-14,74.63,2967242,CP049206.1
+IG005,high,"Rhizobium lusitanum strain 629 chromosome, complete genome",Rhizobium lusitanum,293958,89.7,89.7,96%,7.00E-14,73.97,3912407,CP050308.1
+IG005,high,"Rhizobium sp. 11515TR chromosome, complete genome",Rhizobium,2028343,88.7,88.7,98%,2.00E-13,73.65,4003789,CP022998.1
+IG005,high,"Shinella zoogloeoides strain ATCC 19623 chromosome, complete genome",Shinella zoogloeoides,352475,86.9,86.9,96%,9.00E-13,73.65,3991891,CP086610.1
+IG005,high,"Rhizobium hidalgonense strain JKLM 19E chromosome, complete genome",Rhizobium hidalgonense,1538159,86,86,90%,9.00E-13,73.72,4373438,CP054027.1
+IG005,high,"Rhizobium sp. WYJ-E13 chromosome, complete genome",Rhizobium,2849093,86,86,90%,9.00E-13,73.72,4350227,CP076853.1
+IG005,high,"Rhizobium bangladeshense strain PLR8-1a chromosome, complete genome",Rhizobium bangladeshense,1138189,86,86,90%,9.00E-13,73.72,4343326,CP071618.1
+IG005,high,"Rhizobium bangladeshense strain BLR175 chromosome, complete genome",Rhizobium bangladeshense,1138189,86,86,90%,9.00E-13,73.72,4365990,CP071612.1
+IG005,high,"Agrobacterium sp. CGMCC 11546 chromosome 1, complete sequence",Agrobacterium,2579248,85.1,85.1,88%,3.00E-12,73.88,3036316,CP047387.1
+IG005,high,"Agrobacterium tumefaciens strain CFBP7129 chromosome circular, complete sequence",Agrobacterium tumefaciens,358,85.1,85.1,88%,3.00E-12,73.88,2848410,CP039922.1
+IG005,high,"Rhizobium sp. AB2/73 chromosome, complete genome",Rhizobium,2795216,84.2,84.2,98%,3.00E-12,72.97,4005874,CP067071.1
+IG005,high,"Rhizobium sp. AB2/73 chromosome, complete genome",Rhizobium,2795216,84.2,84.2,98%,3.00E-12,72.97,4005685,CP072172.1
+IG005,high,"Rhizobium sp. CCGE531 chromosome, complete genome",Rhizobium,2364271,81.5,81.5,94%,4.00E-11,74.13,4041163,CP032684.1
+IG005,high,"Rhizobium sp. CCGE532 chromosome, complete genome",Rhizobium,2364272,81.5,81.5,94%,4.00E-11,74.13,3907717,CP032689.1
+IG005,high,"Agrobacterium fabrum strain 12D13 chromosome circular, complete sequence",Agrobacterium fabrum,1176649,80.6,80.6,88%,4.00E-11,73.13,2853758,CP033034.1
+IG005,high,"Agrobacterium fabrum strain 1D132 chromosome circular, complete sequence",Agrobacterium fabrum,1176649,80.6,80.6,88%,4.00E-11,73.13,2907491,CP033022.1
+IG005,high,"Agrobacterium salinitolerans strain DG3-1 chromosome 2, complete sequence",Agrobacterium salinitolerans,1183413,80.6,80.6,88%,4.00E-11,73.13,2892374,CP074393.1
+IG005,high,"Agrobacterium fabrum strain BG5 chromosome ATPC1, complete sequence",Agrobacterium fabrum,1176649,80.6,80.6,88%,4.00E-11,73.13,2865988,CP043962.1
+IG005,high,"Agrobacterium fabrum strain EHA105 chromosome circular, complete sequence",Agrobacterium fabrum,1176649,80.6,80.6,88%,4.00E-11,73.13,2843716,CP067032.1
+IG005,high,"Agrobacterium fabrum strain GV2260 chromosome circular, complete sequence",Agrobacterium fabrum,1176649,80.6,80.6,88%,4.00E-11,73.13,2841579,CP067027.1
+IG005,high,"Agrobacterium fabrum strain GV3101::pMP90 chromosome circular, complete sequence",Agrobacterium fabrum,1176649,80.6,80.6,88%,4.00E-11,73.13,2841579,CP067037.1
+IG005,high,"Agrobacterium tumefaciens str. C58 circular chromosome, complete sequence",Agrobacterium fabrum,176299,80.6,80.6,88%,4.00E-11,73.13,2841580,AE007869.2
+IG005,high,"Rhizobium acidisoli strain FH23 chromosome, complete genome",Rhizobium acidisoli,1538158,78.8,78.8,91%,1.00E-10,72.46,4569280,CP034998.1
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,"		",,,,,,,,,
